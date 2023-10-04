@@ -12,5 +12,5 @@ fn main() {
 
     println!("With text:\n{contents}");
 
-    let elves = contents.split("\n");
+    let split_elves = contents.split("\n");
 }
